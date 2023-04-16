@@ -18,7 +18,7 @@
             "matches": [
                 "https://www.coursicle.com/*"
             ],
-            "exclude_matches": ["https://www.coursicle.com/"],
+            "exclude_matches": ["https://www.coursicle.com/", "https://www.coursicle.com/app/*", "https://www.coursicle.com/blog/*"],
             "css": ["content.css"],
             "run_at": "document_end"
         }
